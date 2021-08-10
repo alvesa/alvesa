@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello World
+I'm André.
 
-<!--
-**alvesa/alvesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm here to help.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <div>
+    <img src="https://img.icons8.com/ios/50/000000/programming.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/typescript.png"/>
+    <img src="https://img.icons8.com/ios/50/000000/php-logo.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/>
+    <img src="https://img.icons8.com/ios/50/000000/javascript--v2.png"/>
+    <img src="https://img.icons8.com/windows/48/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/ios/50/000000/react-native--v1.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/angularjs.png"/>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=alvesa&color=green" alt="alvesa" /> 
+<div
