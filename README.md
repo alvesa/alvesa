@@ -14,5 +14,7 @@ I'm here to help.
     <img src="https://img.icons8.com/ios/50/000000/react-native--v1.png"/>
     <img src="https://img.icons8.com/ios-filled/50/000000/angularjs.png"/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=alvesa&color=green" alt="alvesa" /> 
-<div
+  <div>
+    <img align="left" alt="alvesa github stats" src="https://github-readme-stats.vercel.app/api?username=alvesa&show_icons=true&hide_border=true" />
+  </div>
+</div>
